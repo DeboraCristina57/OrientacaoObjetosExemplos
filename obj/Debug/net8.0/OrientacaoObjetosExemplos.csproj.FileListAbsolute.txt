@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\bin\Debug\net8.0\OrientacaoObjetosExemplos.exe
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\bin\Debug\net8.0\OrientacaoObjetosExemplos.deps.json
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\bin\Debug\net8.0\OrientacaoObjetosExemplos.runtimeconfig.json
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\bin\Debug\net8.0\OrientacaoObjetosExemplos.dll
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\bin\Debug\net8.0\OrientacaoObjetosExemplos.pdb
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\OrientacaoObjetosExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\OrientacaoObjetosExemplos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\OrientacaoObjetosExemplos.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\OrientacaoObjetosExemplos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\OrientacaoObjetosExemplos.dll
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\refint\OrientacaoObjetosExemplos.dll
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\OrientacaoObjetosExemplos.pdb
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\OrientacaoObjetosExemplos.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\ref\OrientacaoObjetosExemplos.dll
+C:\Users\Aluno\Documents\Debora\OrientacaoObjetosExemplos\obj\Debug\net8.0\OrientacaoObjetosExemplos.sourcelink.json
